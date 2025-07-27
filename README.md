@@ -51,3 +51,18 @@ cd ..
 
 # Start the development server
 npm start
+
+## 🖥 Usage Guide
+
+1. **Join**: Enter Room ID and Username.
+2. **Wait**: Collaborate with the other users.
+3. **Select**: Select a language to write a code.
+4. **Execute**: Run the code in the compiler.
+5. **Result**: Check the Output.
+
+## 📡 API Overview
+
+**Socket.IO Events**:  
+- `join(roomId, userName)` - Join/create collaboration room  
+- `codeChange(code)` - Broadcast edits to all room members  
+- `compileCode(lang, code)` - Execute code via Piston API   
