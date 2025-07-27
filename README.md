@@ -30,8 +30,8 @@ A powerful web application that enables multiple developers to write, edit, and 
 - Node.js (v18+)
 - npm (v9+)
 
-### Installation
-```bash
+## Installation
+
 # Clone the repository
 git clone https://github.com/yourusername/realtime-code-editor.git
 cd realtime-code-editor
