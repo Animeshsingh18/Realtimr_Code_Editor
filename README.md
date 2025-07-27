@@ -36,23 +36,23 @@ A powerful web application that enables multiple developers to write, edit, and 
 git clone https://github.com/yourusername/realtime-code-editor.git
 cd realtime-code-editor
 ```
-# Install backend dependencies
+## Install backend dependencies
 ```bash
 npm install
 ```
-# Install frontend dependencies
+## Install frontend dependencies
 ```bash
 cd frontend
 npm install
 cd ..
 ```
-# Build the frontend
+## Build the frontend
 ```bash
 cd frontend
 npm run build
 cd ..
 ```
-# Start the development server
+## Start the development server
 ```bash
 npm start
 ```
