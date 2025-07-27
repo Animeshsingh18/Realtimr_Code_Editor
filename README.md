@@ -1,7 +1,6 @@
 # Real-time Collaborative Code Editor
+ 
 
-![Demo Screenshot](https://via.placeholder.com/800x400?text=Real-time+Collaborative+Editor+Demo) 
-*(Replace with actual screenshot)*
 
 A powerful web application that enables multiple developers to write, edit, and execute code together in synchronized rooms. Built with modern web technologies, it provides seamless real-time collaboration with live code synchronization, multi-language support, and integrated code execution capabilities.
 
